@@ -1,0 +1,299 @@
+[
+    {
+        "id": 77,
+        "text": "当地有人猜测，由于近几个月来美国政要对印度有些不友好的议论和行动，让印度很不舒服。",
+        "hypothesis": "近几个月来美国政要对印度有些不友好的议论和行动，让印度很不舒服。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            },
+            {
+                "round": 2,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            },
+            {
+                "round": 3,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "text": "没想到，根本没什么磕磕绊绊，两人一拍即合，喜得教练们不住感叹，真是“天生一对儿”。",
+        "hypothesis": "两人是天生一对儿。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.91,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "TRUE",
+                "confidence": 0.92
+            },
+            {
+                "round": 2,
+                "factivity": "TRUE",
+                "confidence": 0.92
+            },
+            {
+                "round": 3,
+                "factivity": "TRUE",
+                "confidence": 0.9
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "text": "大家猜测，造假工厂实行的是股份制，花钱要向股东有个交待，所以才留下这“宝贵”的记录。",
+        "hypothesis": "造假工厂实行的是股份制，花钱要向股东有个交待。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            },
+            {
+                "round": 2,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            },
+            {
+                "round": 3,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "text": "面试了第一个公司，却毫无缘由地中途放弃，妈妈多次数落我错过机会，一赌气我索性周末待在学校不回家见她。",
+        "hypothesis": "我错过了机会。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.89,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "TRUE",
+                "confidence": 0.92
+            },
+            {
+                "round": 2,
+                "factivity": "TRUE",
+                "confidence": 0.92
+            },
+            {
+                "round": 3,
+                "factivity": "TRUE",
+                "confidence": 0.82
+            }
+        ]
+    },
+    {
+        "id": 269,
+        "text": "在七月份结束的亚洲男篮锦标赛上，中国队轻松夺冠，称霸之后感叹亚洲已经没有对手。",
+        "hypothesis": "亚洲已经没有对手。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.93,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "TRUE",
+                "confidence": 0.92
+            },
+            {
+                "round": 2,
+                "factivity": "TRUE",
+                "confidence": 0.95
+            },
+            {
+                "round": 3,
+                "factivity": "TRUE",
+                "confidence": 0.92
+            }
+        ]
+    },
+    {
+        "id": 301,
+        "text": "监管者当然希望披露的越多越好，监管越严越好，但被监管者的希望则相反。而且，股市出现“牛市”时，大家埋怨监管太多。",
+        "hypothesis": "监管者对股市的监管很太多。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.75,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "TRUE",
+                "confidence": 0.78
+            },
+            {
+                "round": 2,
+                "factivity": "FALSE",
+                "confidence": 0.58
+            },
+            {
+                "round": 3,
+                "factivity": "TRUE",
+                "confidence": 0.82
+            }
+        ]
+    },
+    {
+        "id": 314,
+        "text": "调查报告称，7月11日官塘驿镇小煤窑管理办公室负责人就听说了兴隆煤矿发生事故，但他只是询问了一下矿主和当地村支书，他们不承认便没有深究。",
+        "hypothesis": "兴隆煤矿发生了事故。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "TRUE",
+                "confidence": 0.82
+            },
+            {
+                "round": 2,
+                "factivity": "TRUE",
+                "confidence": 0.82
+            },
+            {
+                "round": 3,
+                "factivity": "TRUE",
+                "confidence": 0.82
+            }
+        ]
+    },
+    {
+        "id": 328,
+        "text": "根据当地人的乐观估计，仅此一项，全市农民纯收入至少可以翻一番。",
+        "hypothesis": "仅此一项，全市农民纯收入至少可以翻一番。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "TRUE",
+                "confidence": 0.82
+            },
+            {
+                "round": 2,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            },
+            {
+                "round": 3,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            }
+        ]
+    },
+    {
+        "id": 379,
+        "text": "但科布特的经纪人称，科布特当时推着这些货品站在商店门口，结果他人猜测她要将这些东西推走。",
+        "hypothesis": "科布特要将这些东西推走。",
+        "factivity": "FALSE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            },
+            {
+                "round": 2,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            },
+            {
+                "round": 3,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            }
+        ]
+    },
+    {
+        "id": 425,
+        "text": "我猜你没有丢下你的朋友离去，是不是？",
+        "hypothesis": "你没有丢下你的朋友离去。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.63,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "UNCERTAIN",
+                "confidence": 0.5
+            },
+            {
+                "round": 2,
+                "factivity": "FALSE",
+                "confidence": 0.68
+            },
+            {
+                "round": 3,
+                "factivity": "FALSE",
+                "confidence": 0.68
+            }
+        ]
+    },
+    {
+        "id": 492,
+        "text": "非洲国家长期以来一直批评美国口惠而实不至，现在的做法更使人对美国政府借安理会的舞台搞“非洲月”的真实用意产生怀疑。",
+        "hypothesis": "美国口惠而实不至。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827,
+        "votes_detail": [
+            {
+                "round": 1,
+                "factivity": "TRUE",
+                "confidence": 0.82
+            },
+            {
+                "round": 2,
+                "factivity": "TRUE",
+                "confidence": 0.82
+            },
+            {
+                "round": 3,
+                "factivity": "TRUE",
+                "confidence": 0.82
+            }
+        ]
+    }
+]

@@ -1,0 +1,872 @@
+[
+    {
+        "id": 73,
+        "text": "但在家坐了一阵子，就闲不住了，认认真真学习了厂里关于减人增效的有关材料，再想想过去企业不景气时的情景，就渐渐明白企业要发展必须这么做。",
+        "hypothesis": "企业要发展必须这么做。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 74,
+        "text": "1990年以来在万国宫内上演的一幕幕活剧，生动地反映出在当今国际人权领域，对抗是死路一条，只有对话、合作才是顺乎人心的历史潮流。",
+        "hypothesis": "在当今国际人权领域，对抗是死路一条。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 79,
+        "text": "1996年，随着焦作市城区逐渐南移，定和村大批土地面临被征用，加之穿村而过的塔南路拓宽改造，张保国敏锐地觉察到这是一次发展集体经济的难得机遇。",
+        "hypothesis": "这是一次发展集体经济的难得机遇。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 80,
+        "text": "从去年底以来，明显感觉到经济景气回升，人们消费比较放得开了，但与金融危机前相比还是差得远。",
+        "hypothesis": "从去年底以来，经济景气回升了。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 90,
+        "text": "科学家们在厄瓜多尔的科隆群岛上发现一种名为“潜水龙”的蜥蜴，它的身体长度能够缩短1/5，差不多缩短了6.8厘米。他们相信，这些蜥蜴的骨头也能收缩。",
+        "hypothesis": "这些蜥蜴的骨头能收缩。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 102,
+        "text": "两年来的实践充分证明，实施积极的财政政策是扩大内需、促进经济增长最直接和最有效的手段。",
+        "hypothesis": "实施积极的财政政策是扩大内需、促进经济增长最直接和最有效的手段。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 103,
+        "text": "当资本经营这个新东西刚刚见诸报端的时候，顾云奎就注意到这里有大文章。",
+        "hypothesis": "这里有大文章。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 108,
+        "text": "取得了这个成功之后，这几天我正在飘飘然，觉得有了一技之长。谁家有不听话的孩子都可以交给我说服，我也准备收点费，除写作之外，开辟个第二职业——职业思想工作者。但本文的目的却不是吹嘘我有这种本领，给自己作广告。而是要说明，思想工作有各种各样的作法。",
+        "hypothesis": "我有说服不听话孩子的本领。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 110,
+        "text": "不过现在的史帕克领悟到自己所选的是最为愚蠢的一条路。",
+        "hypothesis": "史帕克所选的是最为愚蠢的一条路。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 112,
+        "text": "然而，可喜的是，巴西政府和社会各界都已经意识到，解决社会不公正的问题是巴西成为新世纪世界强国的必由之路。",
+        "hypothesis": "解决社会不公正的问题是巴西成为新世纪世界强国的必由之路。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 125,
+        "text": "来自北京的余女士边刷卡边对记者说，去年春节前曾来香港，当时只后悔现金带得太少，没能享受到尽情购物的乐趣，这次很开心，再不用担心口袋里没现钱了。",
+        "hypothesis": "去年春节前来香港时，余女士现金带得不够。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 130,
+        "text": "“村官”交接难现象的出现，反映出目前这些制度尚不健全，亟须配套。",
+        "hypothesis": "目前这些制度尚不健全，亟须配套。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 132,
+        "text": "我惊讶了，隐隐觉出这里面有故事。",
+        "hypothesis": "这里面有故事。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 133,
+        "text": "然而，他的队友罗斯堡哀叹自己表现不佳。",
+        "hypothesis": "他的队友罗斯堡表现不佳。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 138,
+        "text": "没想到，根本没什么磕磕绊绊，两人一拍即合，喜得教练们不住感叹，真是“天生一对儿”。",
+        "hypothesis": "两人是天生一对儿。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 143,
+        "text": "...本身的素质不高，或业务水平低，责任心差，或慑于建筑市场的恶性竞争，为保“饭碗”对业主和施工方不规范行为姑息迁就；另一方面反映出目前我国的工程监理还缺少应有的权威。",
+        "hypothesis": "目前我国的工程监理还缺少应有的权威。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.84,
+        "score": 0.6827
+    },
+    {
+        "id": 145,
+        "text": "上海三联韬奋书店2011年全年销售1100万元、36.44万册书，所得利润36万元，总经理哀叹每本书赚不到一块钱。",
+        "hypothesis": "每本书赚不到一块钱。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.85,
+        "score": 0.6827
+    },
+    {
+        "id": 148,
+        "text": "这一要领反映出中国人有着吃苦耐劳、坚韧不拔的精神，在遇到问题时，既敢于果断处理，又留有充分余地，善于全面准确地把握事物运动规律。",
+        "hypothesis": "中国人有着吃苦耐劳、坚韧不拔的精神。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 149,
+        "text": "翻看图纸和说明书，你会发现对于住户来说这套资料非常有用。",
+        "hypothesis": "对于住户来说这套资料非常有用。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 150,
+        "text": "本报北京7月20日讯 记者卢新宁从北京市规划委获悉：集中体现北京市历史文化精华的旧城区有望得到妥善保护。",
+        "hypothesis": "集中体现北京市历史文化精华的旧城区有望得到妥善保护。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 152,
+        "text": "我们清醒地意识到，城区市政设施仍然相对落后，教育设施、文化娱乐场所还远不能满足居民需要，城区还未实现集中供气供暖等等...",
+        "hypothesis": "城区市政设施仍然相对落后。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 163,
+        "text": "而波黑对克罗地亚石油产品垄断波黑市场早有不满，波黑的石油公司埋怨克罗地亚石油产品质量不稳定，价格偏高，波黑政府也指责克罗地亚的石油出口商偷逃波黑的税收。",
+        "hypothesis": "克罗地亚的石油出口商偷逃波黑的税收。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.95,
+        "score": 0.6827
+    },
+    {
+        "id": 164,
+        "text": "难道他们不明白保护水质就是保护他们自己吗？",
+        "hypothesis": "保护水质就是保护他们自己。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 169,
+        "text": "耿林还记得那天夜里公园有明亮的月光，月光好像被事先分配好了似的均匀地撒在各处。",
+        "hypothesis": "那天夜里公园有明亮的月光。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 172,
+        "text": "然而，当人类进入新千年之际，酋长国的许多人开始意识到，今后的生活不会像以往那样悠闲了。",
+        "hypothesis": "酋长国今后的生活不会像以往那样悠闲了。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 173,
+        "text": "陈维亚介绍闭幕式的话语大多抽象化、艺术化，或者不露口风，或是语焉不详，绝不涉及具体细节，但从他“喜悦”的语气，可以听出他很自信。",
+        "hypothesis": "陈维亚很自信。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.84,
+        "score": 0.6827
+    },
+    {
+        "id": 181,
+        "text": "台湾的同学很羡慕我在全国各地都有同学。",
+        "hypothesis": "我在全国各地都有同学。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.68,
+        "score": 0.6827
+    },
+    {
+        "id": 186,
+        "text": "当我回答了这三个问题的时候，我就发现答案是如此的简单。",
+        "hypothesis": "答案很简单。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 198,
+        "text": "他本以为，这只是一个局部的原理，但现在他领悟到这个原理是量子论中最核心的基石之一。",
+        "hypothesis": "这个原理是量子论中最核心的基石之一。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 203,
+        "text": "贾永祥、焦玫瑰、梁福权因涉嫌重大违纪违法问题相继被立案调查，这在沈阳市乃至辽宁省、全国法院系统都是绝无仅有的，充分暴露出法院在领导班子廉政建设上存在严重问题。",
+        "hypothesis": "法院在领导班子廉政建设上存在严重问题。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 204,
+        "text": "教练张伟达表示相信中国女队仍是一支有能力夺取本届比赛女团冠军的队伍，但对格鲁吉亚女队的失利也暴露出她们在训练上依然存在问题。",
+        "hypothesis": "她们在训练上依然存在问题。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 205,
+        "text": "一直在探索中前行的应泽从领悟到：“中国梦其实与企业的发展和个人的成长息息相关，中国梦归根结底就是成就企业，成就个人。”",
+        "hypothesis": "中国梦其实与企业的发展和个人的成长息息相关，中国梦归根结底就是成就企业，成就个人。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 208,
+        "text": "猛抬头，他看到悬崖上有一截裸露的树根，因为是冬天，看不到树叶，难以辨认，但是，凭直觉，他意识到这正是他一直在寻找的一种草药。",
+        "hypothesis": "这正是他一直在寻找的一种草药。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.94,
+        "score": 0.6827
+    },
+    {
+        "id": 209,
+        "text": "雷斯林伸出瘦弱的手抚摸着袍子，手指轻柔地在那闪耀着的布料上游移，感叹这段日子即将逝去。",
+        "hypothesis": "这段日子即将逝去。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.69,
+        "score": 0.6827
+    },
+    {
+        "id": 210,
+        "text": "企业整体效益良好，国有大中型企业亏损面比较低，特别是高新技术产业在北京经济总量中所占比重进一步提高，这反映出北京的经济结构调整是实实在在的。",
+        "hypothesis": "北京的经济结构调整是实实在在的。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 217,
+        "text": "几年后的事实证明，这一决策蕴藏着极大的市场智慧。",
+        "hypothesis": "这一决策蕴藏着极大的市场智慧。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 220,
+        "text": "那天往家走时，暖暖觉出心里的气是已经消了。",
+        "hypothesis": "暖暖心里的气是已经消了。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 228,
+        "text": "谁都知道美国三大电视网财力雄厚，如果它们要买下一个欧洲联赛的播映权，价格必定低不下来，于是干脆不买。",
+        "hypothesis": "美国三大电视网财力雄厚。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.84,
+        "score": 0.6827
+    },
+    {
+        "id": 232,
+        "text": "不少入场的市民表示，他们明显感觉到香港经济正在复苏。",
+        "hypothesis": "香港经济正在复苏。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 234,
+        "text": "笔者前不久在农村调查，接连听到群众反映食品过了保质期的事。",
+        "hypothesis": "群众接连反映食品过了保质期。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 261,
+        "text": "收入不断“缩水”，物价却不断上升，台湾民众感叹日子越来越难过。",
+        "hypothesis": "台湾民众的日子越来越难过。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 266,
+        "text": "但时间久了，我发现我的看法有失公允。",
+        "hypothesis": "我的看法有失公允。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 276,
+        "text": "“交粮仓库收购员都不收，害得我家去年公粮至今还未交。”站在旁边的一位邻居大妈说，像这种情况的农户不少，大家都埋怨杂交稻种一年不如一年了。",
+        "hypothesis": "杂交稻种一年不如一年了。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.69,
+        "score": 0.6827
+    },
+    {
+        "id": 282,
+        "text": "我把杰克布带到上海，你可以猜到，我就是从这里开始造孽的。",
+        "hypothesis": "我是从把杰克布带到上海时开始造孽的。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 283,
+        "text": "但或许你不会相信，男人体内也有这种“怀孕荷尔蒙”。",
+        "hypothesis": "男人体内也有这种“怀孕荷尔蒙”。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.93,
+        "score": 0.6827
+    },
+    {
+        "id": 284,
+        "text": "印度主流媒体认为，这是印美关系史上的新开端、新篇章。但双方也都意识到，在建设新关系时仍然存在障碍。多年以来，两国间的相互猜疑、相互不信任所形成的消极作用，至今仍存在着很大惯性，可谓积重难返。在印方看来，美国在核不扩散、印巴关系及克什米尔等重大关键问题上，政策都没有实质变化。",
+        "hypothesis": "美印在建设新关系时仍然存在障碍。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.95,
+        "score": 0.6827
+    },
+    {
+        "id": 287,
+        "text": "阿拉法特这样公开指名道姓地批评巴拉克，是很不寻常的举动。这表明他对以色列的做法已忍无可忍，也显示巴以关系和巴以和谈前景堪忧。",
+        "hypothesis": "阿拉法特对以色列的做法已忍无可忍。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 302,
+        "text": "而且在这本书中的130幅照片，居然没有他和蒋氏父子之间的照片，这就看出他有意要剔出他和国民党之间的这种关系。",
+        "hypothesis": "他有意要剔出他和国民党之间的这种关系。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 303,
+        "text": "87岁的无棣籍台胞刘雄飞回乡探亲，听说县政府要把自来水送到家门口，毫不犹豫地将平时积攒的2万元钱捐到工程指挥部。",
+        "hypothesis": "县政府要把自来水送到家门口。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.68,
+        "score": 0.6827
+    },
+    {
+        "id": 304,
+        "text": "《中共中央国务院关于做好2000年农业和农村工作的意见》重申，我国农业和农村经济发展已进入新阶段，并指出，“随着经济全球化趋势加快，农产品的国际竞争将日趋激烈”。",
+        "hypothesis": "我国农业和农村经济发展已进入新阶段。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.93,
+        "score": 0.6827
+    },
+    {
+        "id": 308,
+        "text": "但破坏历史文化名城的事件也时有发生，诸如福州三坊七巷的建设性破坏、贵州遵义和浙江舟山定海老街区被拆等，表明形势仍比较严峻。",
+        "hypothesis": "形势仍比较严峻。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 310,
+        "text": "凡和黄文汉有交情的朋友，无一个不羡慕圆子是黄文汉的好内助。",
+        "hypothesis": "圆子是黄文汉的好内助。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.84,
+        "score": 0.6827
+    },
+    {
+        "id": 311,
+        "text": "菅直人指出，首相对沉船事故的处理态度暴露出他缺少危机管理负责人的素质。",
+        "hypothesis": "首相缺少危机管理负责人的素质。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 319,
+        "text": "常听人抱怨国产片的卡通造型和动作不敢大胆夸张，但“蓝猫”等几个卡通形象摆脱了这种拘谨，颇有点初生牛犊不怕虎的野性。",
+        "hypothesis": "国产片的卡通造型和动作不敢大胆夸张。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.69,
+        "score": 0.6827
+    },
+    {
+        "id": 321,
+        "text": "爱你的人在寻找爱情的旅途中你也和大多数人一样，会执着于爱情，执着于与所爱之人携手一生，但寻寻觅觅，磕磕绊绊之后，你会领悟到世间最珍贵的不是“得不到”和“已失去”，而是现在能把握的幸福。",
+        "hypothesis": "世间最珍贵的不是“得不到”和“已失去”，而是现在能把握的幸福。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 323,
+        "text": "德米雷尔总统表示十分高兴在土耳其接待中国国家主席江泽民的来访。",
+        "hypothesis": "德米雷尔总统在土耳其接待了中国国家主席江泽民的来访。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 324,
+        "text": "没有人怀疑阿拉伯国家和以色列之间最终会实现全面和平，但也没有人对和平进程的发展感到满意。",
+        "hypothesis": "阿拉伯国家和以色列之间最终会实现全面和平。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.68,
+        "score": 0.6827
+    },
+    {
+        "id": 328,
+        "text": "根据当地人的乐观估计，仅此一项，全市农民纯收入至少可以翻一番。",
+        "hypothesis": "仅此一项，全市农民纯收入至少可以翻一番。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 336,
+        "text": "以前跟那个杀猪的做邻居，屠夫老婆经常向我女朋友诉苦，羡慕我女朋友找了个好男人。那时候，我女朋友非常知足，拿我当个宝贝一样捧着，什么家务活儿也不让我干，整天给我笑脸。",
+        "hypothesis": "我女朋友找了个好男人。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.68,
+        "score": 0.6827
+    },
+    {
+        "id": 337,
+        "text": "北京67中初一年级组长李枫和班主任刘淀娥老师听说今天有咨询活动，早7时就从海淀家中往这赶。",
+        "hypothesis": "今天有咨询活动。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.69,
+        "score": 0.6827
+    },
+    {
+        "id": 348,
+        "text": "1997年初，万敦炎率中铁十七局筑路大军，来到西康铁路工地时，从一开始勘查工地，他根据自己三十多年铁路施工经验，就觉察到黄草坡隧道是个不可轻视和难以对付的角色。",
+        "hypothesis": "黄草坡隧道是个不可轻视和难以对付的角色。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 360,
+        "text": "“这个方案至少要实施半年才能看出效果。”就目前来说，陈伟荣觉得麦肯锡给康佳带来了管理思路上的一次飞跃。",
+        "hypothesis": "就目前来说，麦肯锡给康佳带来了管理思路上的一次飞跃。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.69,
+        "score": 0.6827
+    },
+    {
+        "id": 368,
+        "text": "然而，当他意识到只有以土地才能换取和平时，他又不顾犹太极端势力的恐吓，同阿拉法特握手言和，开始了“土地换和平”的艰难进程。",
+        "hypothesis": "只有以土地才能换取和平。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 370,
+        "text": "临出门前，笔者听到几个医生在背后议论：“不带钱还想看病，哪有这么便宜的事情！”",
+        "hypothesis": "有几个医生在背后议论：“不带钱还想看病，哪有这么便宜的事情！”",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.84,
+        "score": 0.6827
+    },
+    {
+        "id": 377,
+        "text": "我觉出袁兄今日情绪高涨兴奋不已，似乎醉翁之意不在酒，也不在山水之间，而是为等待一件大喜事。",
+        "hypothesis": "袁兄今日情绪高涨兴奋不已。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.84,
+        "score": 0.6827
+    },
+    {
+        "id": 379,
+        "text": "但科布特的经纪人称，科布特当时推着这些货品站在商店门口，结果他人猜测她要将这些东西推走。",
+        "hypothesis": "科布特要将这些东西推走。",
+        "factivity": "FALSE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.57,
+        "score": 0.6827
+    },
+    {
+        "id": 393,
+        "text": "分析1999年亚洲经济恢复的具体因素可以看出，支持亚洲经济复苏的根基正在变得越来越稳固。",
+        "hypothesis": "支持亚洲经济复苏的根基正在变得越来越稳固。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 400,
+        "text": "新的办法使比赛变得没有吸引力，特别是男子双打，队员们经常抱怨比赛过早结束。",
+        "hypothesis": "比赛过早结束。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 405,
+        "text": "3月24日，俄罗斯安全会议通过“外交新构想”，特别强调要“保护俄罗斯境外经济利益的任务”。这表明普京将把外交重点由政治转向经济。",
+        "hypothesis": "普京将把外交重点由政治转向经济。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.69,
+        "score": 0.6827
+    },
+    {
+        "id": 416,
+        "text": "但是，当我们站在国家和全局的角度来看，就不难看出，法人走私为的是小集体的利益，损害的却是国家的利益，违反的是国家的法律。",
+        "hypothesis": "法人走私为的是小集体的利益，但损害的是国家的利益，违反的是国家的法律。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 423,
+        "text": "来自杭州市教育研究所的一份调查显示：杭州市中小学教师普遍感觉到职业压力太大。",
+        "hypothesis": "杭州市中小学教师职业压力很大。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 432,
+        "text": "《快报》周刊在网站上披露，伯格曾于1998年夏季将录像带的复制件交给当时的财经部长斯特劳斯—卡恩，1999年又把录像带原带交给他。",
+        "hypothesis": "伯格曾于1998年夏季将录像带的复制件交给当时的财经部长斯特劳斯—卡恩，1999年又把录像带原带交给他。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.95,
+        "score": 0.6827
+    },
+    {
+        "id": 438,
+        "text": "据说，这次黄山市在7天之内接待38.12万游客，就往太平湖、齐云山等景点分流了近26万人，事实证明这是一个聪明的办法。",
+        "hypothesis": "往太平湖、齐云山等景点分流是一个聪明的办法。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 443,
+        "text": "在老人70岁生日之前，朱菁菁敏感地觉察到老人情况不好，决定为他提前筹办生日。",
+        "hypothesis": "老人情况不好。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 470,
+        "text": "河南禹州市公安局交警大队三中队指导员刘德周开枪杀人恶性案件的发生，暴露出禹州市公安机关在队伍建设方面存在严重问题。",
+        "hypothesis": "禹州市公安机关在队伍建设方面存在严重问题。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 483,
+        "text": "诚然，直到如今，她方才领悟到：在这里，凡是她喜欢的人，没有一个人会对她感到兴趣——至少还没有表示出一本正经的意思。",
+        "hypothesis": "在这里，凡是她喜欢的人，没有一个人会对她感到兴趣。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 488,
+        "text": "可是不知道是没有听到还是因为别的什么缘故，他竟然没有反应，连头都没抬，害得她事后一直埋怨我教得不对。",
+        "hypothesis": "我教得不对。",
+        "factivity": "FALSE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.68,
+        "score": 0.6827
+    },
+    {
+        "id": 492,
+        "text": "非洲国家长期以来一直批评美国口惠而实不至，现在的做法更使人对美国政府借安理会的舞台搞“非洲月”的真实用意产生怀疑。",
+        "hypothesis": "美国口惠而实不至。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.69,
+        "score": 0.6827
+    },
+    {
+        "id": 499,
+        "text": "1999年6月印度外长贾斯旺特·辛格访华时重申印度政府不认为中国对印度构成威胁，同中国发展睦邻友好关系是印度政府的基本政策，",
+        "hypothesis": "印度政府不认为中国对印度构成威胁。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 507,
+        "text": "大塔撩门帘进屋，一进屋瞧见李武那儿躺着，刀头在砖缝里插着，大塔回头跟二培说：“兄弟，你看奸夫，我说你嫂子不规矩吧。”",
+        "hypothesis": "二培的嫂子不规矩。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.69,
+        "score": 0.6827
+    },
+    {
+        "id": 508,
+        "text": "面对亲人们的祝福，吴老先生深情地说：“现在，祖国大陆政治稳定，经济繁荣，经过三年多时间的观察，证明我当初返乡定居的选择是正确的。”",
+        "hypothesis": "吴老先生当初返乡定居的选择是正确的。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 511,
+        "text": "我读他的散文作品，便觉出他读了相当多的古文，吸收了不少中外文学作品的精华。",
+        "hypothesis": "他读过相当多的古文。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 521,
+        "text": "历史表明我们也曾经错了，暴露出我们当时的看法只是一个幻想。",
+        "hypothesis": "我们当时的看法只是一个幻想。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.83,
+        "score": 0.6827
+    },
+    {
+        "id": 528,
+        "text": "我当时就哀叹自己运气如此不好，赶上水池的第二天。",
+        "hypothesis": "我运气很不好。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.69,
+        "score": 0.6827
+    },
+    {
+        "id": 548,
+        "text": "财长们重申，强大的欧元不仅有利于欧元区的经济增长，也有利于世界经济的发展。",
+        "hypothesis": "强大的欧元不仅有利于欧元区的经济增长，也有利于世界经济的发展。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.95,
+        "score": 0.6827
+    },
+    {
+        "id": 550,
+        "text": "过去，农民几乎家家户户都积农家肥。后来，觉着化肥用着省事、干净，施上后瓜长得快、个头大，亩产量高，于是就不愿用农家肥了。",
+        "hypothesis": "化肥用着省事。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.6827
+    },
+    {
+        "id": 560,
+        "text": "我觉着她有一种“魔力”，精神的魔力。当时虽是寒冬，但她走到哪里，哪里就是一片欢歌，一片笑声，一片春意融融。",
+        "hypothesis": "她有一种精神的魔力。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.7,
+        "score": 0.6827
+    }
+]
