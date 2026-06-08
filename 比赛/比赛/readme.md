@@ -1,1 +1,3 @@
-
+这个prompt好像有点问题eeeeeeee
+好像是好几天前修改czr的那个prompt
+我把93%正确率prompt传到v2吧
