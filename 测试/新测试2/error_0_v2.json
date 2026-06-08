@@ -1,0 +1,932 @@
+[
+    {
+        "id": 77,
+        "text": "当地有人猜测，由于近几个月来美国政要对印度有些不友好的议论和行动，让印度很不舒服。",
+        "hypothesis": "近几个月来美国政要对印度有些不友好的议论和行动，让印度很不舒服。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 79,
+        "text": "1996年，随着焦作市城区逐渐南移，定和村大批土地面临被征用，加之穿村而过的塔南路拓宽改造，张保国敏锐地觉察到这是一次发展集体经济的难得机遇。",
+        "hypothesis": "这是一次发展集体经济的难得机遇。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 96,
+        "text": "从打离婚法院根据孩子的愿望把儿子判给马林生起，这老太太就憋着要把孩子要回来，总觉着外孙跟着爸爸要吃苦。",
+        "hypothesis": "外孙跟着爸爸会吃苦。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 100,
+        "text": "佛林特的确有做过错事，他老是罗哩八唆地抱怨我偷了他的东西，其实我根本只是要把那个手镯放回去而已。",
+        "hypothesis": "我偷了佛林特的东西。",
+        "factivity": "FALSE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 104,
+        "text": "山东日照实验二小的陈艳老师说，学具是根据学生特点设计的，现在教学要努力适应学生，而不是想怎么教就怎么教了，自己感觉肩头担子沉甸甸的。",
+        "hypothesis": "现在老师肩头担子沉甸甸的。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 106,
+        "text": "72岁的周老得知他是长春市“十大乡土拔尖人才”之一，农民致富奔小康的带头人，热忱说道：“老李，我给你家写副对联吧。”",
+        "hypothesis": "老李是长春市“十大乡土拔尖人才”之一，农民致富奔小康的带头人。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.97,
+        "score": 0.0
+    },
+    {
+        "id": 118,
+        "text": "对这一现象的发生，陪同记者采访的一位当地干部一直感叹这些学生的素质太差，认为这是武威的悲哀。",
+        "hypothesis": "这些学生的素质很差。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 123,
+        "text": "新当选的总统梅西奇是伊泽特贝戈维奇的好友，其民族政策也相对温和，并致力于改善与波黑的关系，因此伊泽特贝戈维奇觉得来自克罗地亚的威胁已经减轻。",
+        "hypothesis": "来自克罗地亚的威胁已经减轻。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 142,
+        "text": "拉拉刚回到自己办公室，苏浅唱就失了魂似的一下推门而入，连门都没有敲。拉拉一看她的脸色，就猜到她已经听到了风声。",
+        "hypothesis": "苏浅唱已经听到了风声。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.58,
+        "score": 0.0
+    },
+    {
+        "id": 151,
+        "text": "大家猜测，造假工厂实行的是股份制，花钱要向股东有个交待，所以才留下这“宝贵”的记录。",
+        "hypothesis": "造假工厂实行的是股份制，花钱要向股东有个交待。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.95,
+        "score": 0.0
+    },
+    {
+        "id": 156,
+        "text": "不过，欧洲央行认为，欧洲经济将会继续增长，但欧元汇率疲软，未能反映出欧洲经济前景已经改善。",
+        "hypothesis": "欧洲经济前景已经改善。",
+        "factivity": "FALSE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 158,
+        "text": "科学家一直猜测，令耳鸣患者痛苦不堪的耳内噪音并非源于耳内，而是最初产生于大脑内部。",
+        "hypothesis": "令耳鸣患者痛苦不堪的耳内噪音并非源于耳内，而是最初产生于大脑内部。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.95,
+        "score": 0.0
+    },
+    {
+        "id": 163,
+        "text": "而波黑对克罗地亚石油产品垄断波黑市场早有不满，波黑的石油公司埋怨克罗地亚石油产品质量不稳定，价格偏高，波黑政府也指责克罗地亚的石油出口商偷逃波黑的税收。",
+        "hypothesis": "克罗地亚的石油出口商偷逃波黑的税收。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 167,
+        "text": "1999年6月，天津市互联网用户周某向公安机关报案称，他去交费时，竟发现自己的账户上有1766元的欠款，周某怀疑自己的网号被人盗用。",
+        "hypothesis": "周某的网号被人盗用了。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 173,
+        "text": "陈维亚介绍闭幕式的话语大多抽象化、艺术化，或者不露口风，或是语焉不详，绝不涉及具体细节，但从他“喜悦”的语气，可以听出他很自信。",
+        "hypothesis": "陈维亚很自信。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 183,
+        "text": "见到他们一间一间房子地跑着，罗拉娜可以想象谣言正在快速地散播着。",
+        "hypothesis": "谣言正在快速地散播着。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.93,
+        "score": 0.0
+    },
+    {
+        "id": 189,
+        "text": "“你没办法杀了他，”卡拉蒙只希望贝伦这个时候能听懂他的暗示，在时机来临的时候行动。“我猜只有黑暗之后可以办到。”",
+        "hypothesis": "只有黑暗之后可以办到。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 190,
+        "text": "若不是我与他相识，我甚至根本就不会觉察出他是一位正在出道中的新演员。",
+        "hypothesis": "他是一位正在出道中的新演员。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 195,
+        "text": "美国长期怀疑古巴对它进行间谍活动，但很少“现场捉获”，说是古巴人作案手段高明。",
+        "hypothesis": "古巴长期对美国进行间谍活动。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.56,
+        "score": 0.0
+    },
+    {
+        "id": 197,
+        "text": "不过，他们做梦也没有想到，他们给全世界埋下了一颗“千年炸弹”，如不是及时采取措施，新千年的钟声一敲响，全世界很多计算机系统就会陷入一片混乱。",
+        "hypothesis": "他们给全世界埋下了一颗“千年炸弹”。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.95,
+        "score": 0.0
+    },
+    {
+        "id": 205,
+        "text": "一直在探索中前行的应泽从领悟到：“中国梦其实与企业的发展和个人的成长息息相关，中国梦归根结底就是成就企业，成就个人。”",
+        "hypothesis": "中国梦其实与企业的发展和个人的成长息息相关，中国梦归根结底就是成就企业，成就个人。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.69,
+        "score": 0.0
+    },
+    {
+        "id": 213,
+        "text": "患者埋怨看病贵，抱怨看病难，对少数医务人员收受患者红包和索取回扣、态度生硬和开大药方等现象，更是十分不满意。",
+        "hypothesis": "看病贵，看病难。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 215,
+        "text": "面试了第一个公司，却毫无缘由地中途放弃，妈妈多次数落我错过机会，一赌气我索性周末待在学校不回家见她。",
+        "hypothesis": "我错过了机会。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 225,
+        "text": "“我可不感到惊讶，”泰斯伤心地说，又再度感觉到自己恢复了正常。",
+        "hypothesis": "泰斯恢复了正常。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 227,
+        "text": "这时亚当和黑发卡米拉好像要宣布什么事，虽然没出口，但可以猜到是他俩要结婚了。",
+        "hypothesis": "亚当和黑发卡米拉要结婚了。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 230,
+        "text": "警方怀疑这名少年黑客同时也是其他网站受袭事件的幕后元凶。",
+        "hypothesis": "这名少年黑客同时也是其他网站受袭事件的幕后元凶。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 233,
+        "text": "“我猜只能这样了，”他毫无生气地说。“但我得回去南门，我不能离开我的同胞太久。你也应该跟我一起来，亲爱的。”",
+        "hypothesis": "只能这样了。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 238,
+        "text": "当钟慧在门口按了门铃以后，我听到一声久违但却很熟悉的声音，我听出那是陈芳的声音。",
+        "hypothesis": "门口是陈芳的声音。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 246,
+        "text": "但是在1925年摘录事件中反抗主谋者不是伊万·阿列克谢耶维奇，而是名叫阿布拉姆·叶尔马科夫的哥萨克骑兵，在此处轻易猜到葛利高里·麦列霍夫是小说的主角。",
+        "hypothesis": "葛利高里·麦列霍夫是小说的主角。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 257,
+        "text": "艺术团艺术总监邰丽华不但主演还为电影配音和解说，虽然声音有些浑浊、嘶哑，但那是发自心灵深处的声音，在场的一些中国观众可能诧异她声音里含有湖北口音，但如果知道她对声音的记忆还停留在29年前、也就是她失聪前的感觉，便会对她肃然起敬。",
+        "hypothesis": "邰丽华的声音里含有湖北口音。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 267,
+        "text": "所以，你可以猜到，杰克布谅解了我为彼得·寇恩所做的一切。",
+        "hypothesis": "杰克布谅解了我为彼得·寇恩所做的一切。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 279,
+        "text": "当地居民猜测以军将逮捕亚辛或毁坏这一地区的几栋巴武装人员住房。",
+        "hypothesis": "以军将逮捕亚辛或毁坏这一地区的几栋巴武装人员住房。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 281,
+        "text": "从你收到了“我家人”的短信开始，我就猜到你是个托，我一直给你机会，我多么想你能亲口对我说出真相，可是你没有，到最后也没有。",
+        "hypothesis": "你是个托。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 283,
+        "text": "但或许你不会相信，男人体内也有这种“怀孕荷尔蒙”。",
+        "hypothesis": "男人体内也有这种“怀孕荷尔蒙”。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.82,
+        "score": 0.0
+    },
+    {
+        "id": 287,
+        "text": "阿拉法特这样公开指名道姓地批评巴拉克，是很不寻常的举动。这表明他对以色列的做法已忍无可忍，也显示巴以关系和巴以和谈前景堪忧。",
+        "hypothesis": "阿拉法特对以色列的做法已忍无可忍。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.68,
+        "score": 0.0
+    },
+    {
+        "id": 294,
+        "text": "南非总统姆贝基今天批评西方国家忽视非洲经济，敦促西方和国际社会关注非洲发展，特别是采取切实措施减少非洲债务。",
+        "hypothesis": "西方国家忽视非洲经济。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.95,
+        "score": 0.0
+    },
+    {
+        "id": 314,
+        "text": "调查报告称，7月11日官塘驿镇小煤窑管理办公室负责人就听说了兴隆煤矿发生事故，但他只是询问了一下矿主和当地村支书，他们不承认便没有深究。",
+        "hypothesis": "兴隆煤矿发生了事故。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.95,
+        "score": 0.0
+    },
+    {
+        "id": 316,
+        "text": "她没有想到麦克会把纸杯收起来带回美国，她希望这只是一种夸张了的对她的想念，因为她感觉她对他这种想念无以回报。",
+        "hypothesis": "麦克把纸杯收起来带回了美国的行为只是一种夸张了的对她的想念。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.93,
+        "score": 0.0
+    },
+    {
+        "id": 318,
+        "text": "但是那些妇女基本都哀叹自己被困在岛上，而且离开飞岛的女子基本都没回来过。",
+        "hypothesis": "那些妇女都被困在岛上。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 323,
+        "text": "德米雷尔总统表示十分高兴在土耳其接待中国国家主席江泽民的来访。",
+        "hypothesis": "德米雷尔总统在土耳其接待了中国国家主席江泽民的来访。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.54,
+        "score": 0.0
+    },
+    {
+        "id": 328,
+        "text": "根据当地人的乐观估计，仅此一项，全市农民纯收入至少可以翻一番。",
+        "hypothesis": "仅此一项，全市农民纯收入至少可以翻一番。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 341,
+        "text": "我这么做，是因为我相信世界人口最多的国家和工业化最发达的国家是天然伙伴，我们不应当没有共同利益。",
+        "hypothesis": "世界人口最多的国家和工业化最发达的国家是天然伙伴。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 352,
+        "text": "你很难想象，已进城半个世纪的孙文铎身上还保留着那么浓郁的乡土气息。",
+        "hypothesis": "已进城半个世纪的孙文铎身上保留着浓郁的乡土气息。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.82,
+        "score": 0.0
+    },
+    {
+        "id": 356,
+        "text": "今天老妈单位组织去旅游，中午老爸主厨，边炒菜边数落炊具太脏，吃饱后直接花了一个多小时刷锅，把黑漆漆的大黑锅刷得白亮。",
+        "hypothesis": "炊具太脏。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 360,
+        "text": "“这个方案至少要实施半年才能看出效果。”就目前来说，陈伟荣觉得麦肯锡给康佳带来了管理思路上的一次飞跃。",
+        "hypothesis": "就目前来说，麦肯锡给康佳带来了管理思路上的一次飞跃。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 361,
+        "text": "然后我看到了它的一只眼睛——那是我这辈子所看过最美丽的眼睛，我猜它在微笑。",
+        "hypothesis": "那只眼睛在微笑。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.0
+    },
+    {
+        "id": 363,
+        "text": "中国足球羡慕发达国家万里挑一选拔人才，其实自己正从百里挑一向千里挑一发展，这不是多年来盼望出现的景观么？",
+        "hypothesis": "发达国家是万里挑一选拔人才。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 379,
+        "text": "但科布特的经纪人称，科布特当时推着这些货品站在商店门口，结果他人猜测她要将这些东西推走。",
+        "hypothesis": "科布特要将这些东西推走。",
+        "factivity": "FALSE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.63,
+        "score": 0.0
+    },
+    {
+        "id": 382,
+        "text": "不说别的，过去我们一提治安不好，总是抱怨派出所警力太少，可是开展“民意无盗”工程后，不是我们去找派出所请求防范，而是派出所来找我们，一起商量。",
+        "hypothesis": "派出所警力很少。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 383,
+        "text": "阿达姆库斯表示，他很高兴有机会在赴纽约出席千年首脑会议途经冰岛时与李鹏委员长会晤。",
+        "hypothesis": "阿达姆库斯在赴纽约出席千年首脑会议途经冰岛时与李鹏委员长会晤了。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 400,
+        "text": "新的办法使比赛变得没有吸引力，特别是男子双打，队员们经常抱怨比赛过早结束。",
+        "hypothesis": "比赛过早结束。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 408,
+        "text": "部分老渔民找到村里批评干部做事不顾实情，告诫村委会千万不能“玩虚的”。",
+        "hypothesis": "干部做事不顾实情。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 409,
+        "text": "布什表示很高兴有机会再次来中国访问。",
+        "hypothesis": "布什再次来到中国访问。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 417,
+        "text": "此前，伊拉克曾多次向联合国秘书长抱怨联合国工作人员在伊拉克从事损害伊人民的违法活动。",
+        "hypothesis": "联合国工作人员在伊拉克从事损害伊人民的违法活动。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 419,
+        "text": "她在这时又心生烦躁了，因为当他亲着她的左脸的时候，她再一次觉出了她左脸上有个赘物，这赘物便是唐菲的嘴唇。",
+        "hypothesis": "她左脸上有个赘物。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 423,
+        "text": "来自杭州市教育研究所的一份调查显示：杭州市中小学教师普遍感觉到职业压力太大。",
+        "hypothesis": "杭州市中小学教师职业压力很大。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 429,
+        "text": "他们只能在争吵之后，一个面朝东，一个面朝西，哀叹自己命苦：别的鸵鸟都不会说话，为什么偏偏自己碰上一个会说话的呢？",
+        "hypothesis": "他们命苦。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 434,
+        "text": "王子宝心里明白，这一想法意味着将自己推上一条布满荆棘的风险之路。",
+        "hypothesis": "王子宝将自己推上一条布满荆棘的风险之路。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.94,
+        "score": 0.0
+    },
+    {
+        "id": 442,
+        "text": "然而，人们很难想象，就是这家医院，在1996年全省行风检查、全市目标管理评比之中，居然得了两个倒数第一。",
+        "hypothesis": "这家医院在1996年全省行风检查、全市目标管理评比之中得了两个倒数第一。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.82,
+        "score": 0.0
+    },
+    {
+        "id": 446,
+        "text": "春节期间，笔者下乡与几位农友、科技人员聊天，他们都抱怨现在施化肥的效果差，如果要达到过去的增产幅度，就得比过去多施两三倍。",
+        "hypothesis": "现在施化肥的效果差。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 451,
+        "text": "科学家原来估计CGRO探测器至少还能在太空坚持工作8到10年，但它的一个陀螺仪去年12月6日出现故障失灵。",
+        "hypothesis": "CGRO探测器至少还能在太空坚持工作8到10年。",
+        "factivity": "FALSE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 455,
+        "text": "记者问：“国家有规定，不许卖盗版软件，你们知道吗？”",
+        "hypothesis": "国家有规定，不许卖盗版软件。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 462,
+        "text": "本报北京四月十日讯记者薛原报道：当明媚的阳光照在贾思蕊的笑脸上，你很难想象她和她的伙伴们是一群需要特殊关怀的人。",
+        "hypothesis": "她和她的伙伴们是一群需要特殊关怀的人。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.85,
+        "score": 0.0
+    },
+    {
+        "id": 468,
+        "text": "刘墉心说：我全听见啦。假装咳嗽一声，进了朝房。",
+        "hypothesis": "刘墉咳嗽了一声。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.95,
+        "score": 0.0
+    },
+    {
+        "id": 475,
+        "text": "但最近一些美国学者开始批评使用这个“方便的标签”是一项“蹩脚的政策”，美国政府对待所谓“无赖国家”的态度也出现了变化。",
+        "hypothesis": "使用这个“方便的标签”是一项蹩脚的政策。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 482,
+        "text": "太阳升到山梁上的时候，他们把山洞搬空了，这才觉出耗尽了最后的体力。",
+        "hypothesis": "太阳升到山梁上的时候，他们耗尽了最后的体力。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 487,
+        "text": "他伸出瘦削的手拉下了响铃。大门立刻打开，贝传飞快走进，克丽珊娜猜他一直站在门外。她抿紧双唇。傲慢、愤怒地瞪了那人一眼，那人虽然不知道自己犯了什么错，只能脸色苍白地用袖子抹着头顶的汗珠。",
+        "hypothesis": "贝传一直站在门外。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 488,
+        "text": "可是不知道是没有听到还是因为别的什么缘故，他竟然没有反应，连头都没抬，害得她事后一直埋怨我教得不对。",
+        "hypothesis": "我教得不对。",
+        "factivity": "FALSE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 492,
+        "text": "非洲国家长期以来一直批评美国口惠而实不至，现在的做法更使人对美国政府借安理会的舞台搞“非洲月”的真实用意产生怀疑。",
+        "hypothesis": "美国口惠而实不至。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.0
+    },
+    {
+        "id": 494,
+        "text": "但是，他感觉到房间在脚底下摇晃，决定最好还是不要乱动。",
+        "hypothesis": "房间在摇晃。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 499,
+        "text": "1999年6月印度外长贾斯旺特·辛格访华时重申印度政府不认为中国对印度构成威胁，同中国发展睦邻友好关系是印度政府的基本政策，",
+        "hypothesis": "印度政府不认为中国对印度构成威胁。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.94,
+        "score": 0.0
+    },
+    {
+        "id": 507,
+        "text": "大塔撩门帘进屋，一进屋瞧见李武那儿躺着，刀头在砖缝里插着，大塔回头跟二培说：“兄弟，你看奸夫，我说你嫂子不规矩吧。”",
+        "hypothesis": "二培的嫂子不规矩。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 510,
+        "text": "但是，结果总是差强人意，同事终于忍不住爆发了，数落儿子不争气，而她的儿子，也在这样的重压下越来越沉默。",
+        "hypothesis": "同事的儿子不争气。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 512,
+        "text": "4年之后，萨达特再做惊人之举，宣布“将到犹太人的老家去谈我们的和平愿望”。当时，没有人相信他会这样做。然而，萨达特是真诚地前来寻求和平的，他的真诚令以色列举国狂喜。",
+        "hypothesis": "萨达特到犹太人的老家谈了他们的和平愿望。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 514,
+        "text": "苗傅等大声数落高宗不辨忠奸，任用奸臣。",
+        "hypothesis": "高宗不辨忠奸，任用奸臣。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.58,
+        "score": 0.0
+    },
+    {
+        "id": 516,
+        "text": "从小到大，就知道自己有一位与众不同的父亲。除了在年龄上比别人的父亲岁数大得多，还在自我懂事起就不记得他带我去游乐场玩耍嬉戏，看电影吃肯德基。",
+        "hypothesis": "他带我去过游乐场玩耍嬉戏。",
+        "factivity": "FALSE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 523,
+        "text": "此间媒体纷纷猜测，英国女王之所以替伯勒尔说话，是担心如果继续审讯下去，他会泄露王室秘密。",
+        "hypothesis": "英国女王之所以替伯勒尔说话，是担心如果继续审讯下去会泄露王室秘密。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.58,
+        "score": 0.0
+    },
+    {
+        "id": 525,
+        "text": "不过，他表示担心藤森会食言，怀疑藤森将不履行自己的承诺。",
+        "hypothesis": "藤森将不会履行自己的承诺。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.82,
+        "score": 0.0
+    },
+    {
+        "id": 527,
+        "text": "据报道，俄罗斯一艘油轮3日在波斯湾公海被美国军舰扣押进行检查，美方怀疑油轮走私伊拉克石油。",
+        "hypothesis": "这艘俄罗斯油轮走私了伊拉克石油。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.96,
+        "score": 0.0
+    },
+    {
+        "id": 529,
+        "text": "卡拉蒙躺在地上，假装挣扎着呼吸，耐心地等待敌人靠近。",
+        "hypothesis": "卡拉蒙正在挣扎着呼吸。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.93,
+        "score": 0.0
+    },
+    {
+        "id": 532,
+        "text": "41岁的王一方相信医学不只是科学，更是人学。",
+        "hypothesis": "医学不只是科学，更是人学。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.0
+    },
+    {
+        "id": 538,
+        "text": "胡飞跃无法想象，扶贫工作居然比网络科研攻关面临的困难还多：“过山瑶”少数民族居住地离荔浦县城近90公里，有60公里是没有公路的！",
+        "hypothesis": "扶贫工作比网络科研攻关面临的困难还多。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "FALSE",
+        "pred_confidence": 0.95,
+        "score": 0.0
+    },
+    {
+        "id": 540,
+        "text": "鲍威尔重申，美国对巴尔干地区维和行动的承诺没有改变，美国将与欧洲共进退。",
+        "hypothesis": "美国对巴尔干地区维和行动的承诺没有改变，美国将与欧洲共进退。",
+        "factivity": "TRUE",
+        "confidence": "(0.625, 0.75]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.95,
+        "score": 0.0
+    },
+    {
+        "id": 541,
+        "text": "她感觉俞厂长并没有要避开她的意思。",
+        "hypothesis": "俞厂长没有要避开她的意思。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 542,
+        "text": "其次，调动了各方积极性，并让受益者充分意识到命运掌握在自己手中。",
+        "hypothesis": "受益者的命运掌握在自己手中。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 544,
+        "text": "两个多月前我买了一部手机，着实高兴了一阵子。但没过多久，这种兴奋劲就烟消云散：话费太高。11月份的话费是219．2元。当拿到话单时，以为自己电话过多，以后尽量压缩通话时间。但是，12月份的话费仍达164元之多。但是，12月份的话费仍达164元之多。打出话单，原来是月租费和每分钟的通话费都很高。这些话费，占到我工资的1/4。",
+        "hypothesis": "我电话过多。",
+        "factivity": "FALSE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 546,
+        "text": "图片上的小娃娃，我猜是个小妹妹。",
+        "hypothesis": "图片上的小娃娃是个小妹妹。",
+        "factivity": "UNCERTAIN",
+        "confidence": "0.5",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.58,
+        "score": 0.0
+    },
+    {
+        "id": 549,
+        "text": "她曾经日日夜夜忙着看护这个生病的孩子，照料他，抱着他，搂着他，觉得他已经成了她身体的一部分。她简直不能想象他已经死了，快要躺进棺材，被埋葬到坟墓里去。她认为上帝不可能把这个孩子从她的手中抢走。",
+        "hypothesis": "这个孩子已经死了。",
+        "factivity": "FALSE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.95,
+        "score": 0.0
+    },
+    {
+        "id": 552,
+        "text": "学生骆晨琛在日记里写道：“自我教育活动培养了自立能力，我觉得我长大了，希望学校多组织一些这样的活动。”",
+        "hypothesis": "骆晨琛长大了。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 553,
+        "text": "没有人能觉察出我是朝鲜族的。",
+        "hypothesis": "我是朝鲜族的。",
+        "factivity": "TRUE",
+        "confidence": "(0.875, 1]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 554,
+        "text": "我推开了门，以便看清整个房间，却发现我妈躺在床边的地板上。我企图摇醒她，但她却没醒。我猜她死了。",
+        "hypothesis": "我妈死了。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 563,
+        "text": "她感觉方兢正在观察她，也可能是观察她抽烟——80年代中期城市女性抽烟其实已不稀奇。",
+        "hypothesis": "方兢正在观察她。",
+        "factivity": "TRUE",
+        "confidence": "(0.75, 0.875]",
+        "pred_factivity": "UNCERTAIN",
+        "pred_confidence": 0.5,
+        "score": 0.0
+    },
+    {
+        "id": 565,
+        "text": "此前有理论猜测，尼安德特人与3万年前迁徙来的其他古人类物种融合，成为了现代人的祖先。",
+        "hypothesis": "尼安德特人与3万年前迁徙来的其他古人类物种融合，成为了现代人的祖先。",
+        "factivity": "TRUE",
+        "confidence": "(0.5, 0.625]",
+        "pred_factivity": "TRUE",
+        "pred_confidence": 0.82,
+        "score": 0.0
+    }
+]
